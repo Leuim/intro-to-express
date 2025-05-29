@@ -1,0 +1,25 @@
+{
+  "name": "intro-to-express",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leuim/intro-to-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leuim/intro-to-express/issues"
+  },
+  "homepage": "https://github.com/Leuim/intro-to-express#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "morgan": "^1.10.0"
+  }
+}
